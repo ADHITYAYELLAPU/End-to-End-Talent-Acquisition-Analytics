@@ -69,14 +69,23 @@ Recruiter Efficiency Score
 Source Effectiveness
 
 🗂 Project Structure
+
 /data
+
    raw_data.csv
+
 /sql
+
    data_cleaning.sql
+   
    kpi_queries.sql
+
 /excel
+
    validation_analysis.xlsx
+
 /powerbi
+
    hr_analytics_dashboard.pbix
 
 📌 Business Impact
